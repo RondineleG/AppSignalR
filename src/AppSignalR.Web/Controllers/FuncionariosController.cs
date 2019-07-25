@@ -44,6 +44,10 @@ namespace AppSignalR.Web.Controllers
         {
             return View();
         }
+        public IActionResult ()
+        {
+            return View();
+        }
 
         // POST: Funcionarios/Create
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
